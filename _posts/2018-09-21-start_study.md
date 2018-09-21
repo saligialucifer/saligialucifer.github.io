@@ -3,8 +3,6 @@ layout: article
 
 title: 学术生涯的开始
 
-Subtitle:白嫖学术论文的网站集合
-
 mathjax: true 
 
 ---
