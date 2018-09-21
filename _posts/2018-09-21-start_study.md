@@ -1,14 +1,13 @@
 ---
-
 layout: article 
 
-title: Document - Writing Posts 
+title: 学术生涯的开始
+
+Subtitle:白嫖学术论文的网站集合
 
 mathjax: true 
 
 ---
-
-# 学术生涯的开始
 
 1. <http://sci-hub.tw/>（最新）
 2. <http://sci-hub.ws/>（最新）
